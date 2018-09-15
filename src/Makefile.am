@@ -162,6 +162,7 @@ BITCOIN_CORE_H = \
   txmempool.h \
   ui_interface.h \
   undo.h \
+  usercheckpoint.h \
   util.h \
   utilmoneystr.h \
   utiltime.h \
@@ -233,6 +234,7 @@ libbitcoin_server_a_SOURCES = \
   txdb.cpp \
   txmempool.cpp \
   ui_interface.cpp \
+  usercheckpoint.cpp \
   validation.cpp \
   validationinterface.cpp \
   versionbits.cpp \
