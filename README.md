@@ -9,7 +9,7 @@ MiningEnthusiastCoin Core Ver 1.0.0
 What is MiningEnthusiastCoin 1.0.0?
 -------------
 
-MiningEnthusiastCoin is a new blockchain based on VIPSTARCOIN which uses Bitcoin Core and integrates Ethereum based smart contracts. It implements an extensible design which is capable of adding more VMs, enabled primarily through the Account Abstraction Layer, which allows for an account based virtual machine to function on a UTXO based blockchain. 
+MiningEnthusiastCoin is a new blockchain based on VIPSTARCOIN and HTMLCOIN which uses Bitcoin Core and integrates Ethereum based smart contracts. It implements an extensible design which is capable of adding more VMs, enabled primarily through the Account Abstraction Layer, which allows for an account based virtual machine to function on a UTXO based blockchain. 
 
 What is MiningEnthusiastCoin Core?
 ------------------
@@ -20,7 +20,6 @@ MiningEnthusiastCoin Core currently implements the following:
 
 * Sending/Receiving MiningEnthusiastCoin
 * Sending/Receiving MRC20 tokens on the MiningEnthusiastCoin network
-* The implementation "Native SegWit" on the MiningEnthusiastCoin network 
 * Staking and creating blocks for the MiningEnthusiastCoin network
 * Creating and interacting with smart contracts
 * Running a full node for distributing the blockchain to other users
@@ -119,7 +118,7 @@ The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 MiningEnthusiastCoin 1.0.0とは?
 -------------
 
-MiningEnthusiastCoinはBitcoin CoreとEthereumがベースのスマートコントラクトを統合したVIPSTARCOINをベースとした新しいブロックチェーンです。これは主にアカウント匿名レイヤーを介して有効になっており、より多くのVMを追加できる拡張可能な設計を実装、アカウントベースの仮想マシンをUTXOベースのブロックチェーン上で機能させることができます。
+MiningEnthusiastCoinはBitcoin CoreとEthereumがベースのスマートコントラクトを統合したVIPSTARCOIN及びHTMLCOINをベースとした新しいブロックチェーンです。これは主にアカウント匿名レイヤーを介して有効になっており、より多くのVMを追加できる拡張可能な設計を実装、アカウントベースの仮想マシンをUTXOベースのブロックチェーン上で機能させることができます。
 
 MiningEnthusiastCoin Coreとは?
 ------------------
@@ -130,7 +129,6 @@ MiningEnthusiastCoin Coreは以下を実装しています。
 
 * MiningEnthusiastCoinの送受信
 * MiningEnthusiastCoinネットワーク用のMRC20トークンの送受信
-* MiningEnthusiastCoinネットワーク用にネイティブSegWitを実装
 * MiningEnthusiastCoinネットワークでのコインのステークとブロックの作成
 * スマートコントラクトの作成と利用
 * ブロックチェーンを他のユーザーに配布するためのフルノードの実行
