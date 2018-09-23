@@ -1,4 +1,4 @@
-MiningEnthusiastCoin Core Ver 1.0.0
+MiningEnthusiastCoin Core Ver 1.0.1
 =========
 
 (Japanese HP)https://miningenthusiastcoin.com/
@@ -6,7 +6,7 @@ MiningEnthusiastCoin Core Ver 1.0.0
 
 ### English
 
-What is MiningEnthusiastCoin 1.0.0?
+What is MiningEnthusiastCoin 1.0.1?
 -------------
 
 MiningEnthusiastCoin is a new blockchain based on VIPSTARCOIN and HTMLCOIN which uses Bitcoin Core and integrates Ethereum based smart contracts. It implements an extensible design which is capable of adding more VMs, enabled primarily through the Account Abstraction Layer, which allows for an account based virtual machine to function on a UTXO based blockchain. 
@@ -115,7 +115,7 @@ The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Japanese
 
-MiningEnthusiastCoin 1.0.0とは?
+MiningEnthusiastCoin 1.0.1とは?
 -------------
 
 MiningEnthusiastCoinはBitcoin CoreとEthereumがベースのスマートコントラクトを統合したVIPSTARCOIN及びHTMLCOINをベースとした新しいブロックチェーンです。これは主にアカウント匿名レイヤーを介して有効になっており、より多くのVMを追加できる拡張可能な設計を実装、アカウントベースの仮想マシンをUTXOベースのブロックチェーン上で機能させることができます。
